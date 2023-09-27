@@ -2,6 +2,6 @@ package pruebagit;
 
 public class HolaMundo {
 	public static void main (String[] args) {
-		System.out.println("Prog3!");
+		System.out.println("Prog3");
 	}
 } 
